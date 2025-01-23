@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 # Hi 👋  My name is Abolfazl and I'm a BackEnd  Developer
 
+# 💫 About Me:
+I'm Abolfazl Qaederahmat, a backend web developer with expertise in PHP, Laravel, and Livewire. With two years of experience in designing and developing web applications, I am passionate about creating high-performance, scalable, and user-friendly websites. My focus is on writing clean, efficient code and delivering optimized solutions that enhance user experience and meet business goals.
+
+
 ## Most Used Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -41,7 +45,21 @@ Here are some ideas to get you started:
 -->
 
 
-## GitHub Stats
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-982-blue)
-![Current Streak](https://img.shields.io/badge/Current_Streak-0-orange)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-10-red)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ab01faz101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ab01faz101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab01faz101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ab01faz101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ab01faz101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ab01faz101&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
