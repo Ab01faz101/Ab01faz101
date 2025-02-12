@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋  My name is Abolfazl and I'm a BackEnd  Developer
+# Hi 👋  My name is Abolfazl and 🚀 Passionate Backend Developer | PHP | Laravel | Livewire
 
 # 💫 About Me:
 I'm Abolfazl Qaederahmat, a backend web developer with expertise in PHP, Laravel, and Livewire. With two years of experience in designing and developing web applications, I am passionate about creating high-performance, scalable, and user-friendly websites. My focus is on writing clean, efficient code and delivering optimized solutions that enhance user experience and meet business goals.
@@ -24,18 +24,17 @@ I'm Abolfazl Qaederahmat, a backend web developer with expertise in PHP, Laravel
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 
 ## Technologies and Tools
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?logo=livewire&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](ar.rahmatyy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ar.rahmatyy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ab01faz101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-ghaedrahmat-b78078337)
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://cv.abolfazl01.ir/)
+
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
@@ -46,7 +45,7 @@ I'm Abolfazl Qaederahmat, a backend web developer with expertise in PHP, Laravel
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ab01faz101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ab01faz101&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ab01faz101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab01faz101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
