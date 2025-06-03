@@ -39,13 +39,7 @@ I thrive on solving complex problems and delivering high-performance solutions t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ab01faz101&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ab01faz101&theme=algolia&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ab01faz101&theme=react-dark&hide_border=true" />
-</div>
 
 ## 🏆 Top Projects
 ![](https://github-contributor-stats.vercel.app/api?username=Ab01faz101&limit=5&theme=dark&combine_all_yearly_contributions=true)
